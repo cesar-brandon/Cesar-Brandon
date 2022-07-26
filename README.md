@@ -1,9 +1,12 @@
 ### Hi there 🎈
-<h3 align="center">A passionate frontend developer from Peru</h3><br>
+<h3 align="center">A passionate full stack developer from Peru</h3><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry)](https://github.com/Cesar-Brandon/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats"> | <img align="center" height="280px" src="https://i.pinimg.com/originals/18/be/7d/18be7d835845314c784a4586eb03d68a.jpg"> |
+| ------------- | ------------- |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
