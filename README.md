@@ -1,5 +1,5 @@
 ### Hi there 👾
-<h3 align="center">A passionate full stack developer from Peru</h3><br>
+<h3 align="center">A passionate full stack developer</h3><br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
