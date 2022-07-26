@@ -1,4 +1,4 @@
-### Hi there 🎈
+### Hi there 👾
 <h3 align="center">A passionate full stack developer from Peru</h3><br>
 
 <p align="center">
