@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats"> | [![Neovim setup](./assets/minimalist-mode.png =450x)](https://github.com/Cesar-Brandon/nvim-setup-web)|
+| <img align="center" width="880" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats"> | [![neovim](./assets/minimalist-mode.png)](https://github.com/Cesar-Brandon/nvim-setup-web)|
 | ------------- | ------------- |
 
 <div align="center">
