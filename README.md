@@ -1,5 +1,7 @@
 ### Hi there 👾
 
+<kbd>
+
 <h3 align="center">A passionate full stack developer</h3><br>
 
 <p align="center">
@@ -11,8 +13,6 @@
 		<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats">
 		<img width="448" src="./assets/minimalist-mode.png" alt="giphy" style="border: 1px solid #fff; border-radius:10px;">
 </p>
-
-
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
@@ -21,4 +21,6 @@
 | ------------- | ------------- | ------------- |
 
 </div>
+</kbd>
+
 
