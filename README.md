@@ -1,7 +1,5 @@
 ### Hi there 👾
 
-<kbd>
-
 <h3 align="center">A passionate full stack developer</h3><br>
 
 <p align="center">
@@ -21,6 +19,3 @@
 | ------------- | ------------- | ------------- |
 
 </div>
-</kbd>
-
-
