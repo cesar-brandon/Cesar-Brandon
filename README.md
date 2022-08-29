@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
 
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats">
-<img width="440" src="./assets/minimalist-mode.png" alt="giphy" style="border-radius:10px;">
+<img align="right" width="440" src="./assets/minimalist-mode.png" alt="giphy" style="border-radius:10px;">
 
 
 &nbsp;
