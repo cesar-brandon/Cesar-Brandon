@@ -5,10 +5,12 @@
 <h3 align="center">A passionate full stack developer</h3><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
 
+<div>
 <img  width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats">
 
 
 <img align="right" width="448" src="./assets/minimalist-mode.png" alt="giphy" style="border-radius:10px;">
+</div>
 &nbsp
 <h3 align="center">Languages and Tools</h3>
 
