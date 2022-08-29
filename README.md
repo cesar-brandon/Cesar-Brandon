@@ -1,4 +1,4 @@
-### Hi there 👾
+<h1 align="center">Hey! I'm Brandon <img src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/hi.gif?raw=true" width="30px" height="30px"></h1>
 
 <img align="right" src="./assets/ghibli.gif" alt="giphy" width="250" style=" border-radius:10px;">
 
@@ -8,7 +8,7 @@
 <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats">
 <img align="right" width="440" src="./assets/minimalist-mode.png" alt="giphy" style="border-radius:10px;">
 
-&nbsp;
+&emsp;
 
 <div align="center">
 
