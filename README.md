@@ -1,15 +1,20 @@
 ### Hi there 👾
 
-<h3 align="center">A passionate full stack developer</h3><br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
-		<img src="./assets/giphy02.gif" alt="giphy" width="194px" style="border: 1px solid #fff; border-radius:10px;">
-</p>
+<table>
+    <tr>
+        <td align="top">
+						<h3 align="center">A passionate full stack developer</h3><br>
+						<img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
+				</td>
+        <td align="top">
+						<img align="end" src="./assets/ghibli.gif" alt="giphy" width="250" style=" border-radius:10px;">
+				</td>
+    </tr>
+</table>
 
 <p align="center">
 		<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Brandon&theme=blueberry" alt="Cesar Brandon github stats">
-		<img width="448" src="./assets/minimalist-mode.png" alt="giphy" style="border: 1px solid #fff; border-radius:10px;">
+		<img width="448" src="./assets/minimalist-mode.png" alt="giphy" style="border-radius:10px;">
 </p>
 <h3 align="center">Languages and Tools</h3>
 
