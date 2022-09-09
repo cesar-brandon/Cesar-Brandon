@@ -3,15 +3,16 @@
 <div align="center">
 <h3 >A passionate full stack developer</h3><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
-<img align="right" src="./assets/ghibli.gif" alt="giphy" width="250" style=" border-radius:10px;">
-</div></br>
+<img align="right" src="./assets/ghibli.gif" alt="giphy" width="250">
+
+&nbsp;
+
+</div>
 
 &nbsp;
 
 <div align="center">
 
-&nbsp;
-  
 ### Tools / Languages
 ![tools](./assets/Tools-lenguages.png)
 </div>
