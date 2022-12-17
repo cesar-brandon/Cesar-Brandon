@@ -14,6 +14,6 @@
 <div align="center">
 
 ### Tools / Languages
-![tools](./assets/Tools-lenguages.png)
+![tools](./assets/Tools.png)
 </div>
 
