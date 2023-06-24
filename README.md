@@ -1,19 +1,7 @@
-<h1 align="center">Hey! I'm Brandon <img src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/hi.gif?raw=true" width="30px" height="30px"></h1>
+<h1 align="center">Hey! I'm Brandon 🖐</h1>
 
 <div align="center">
 <h3 >A passionate full stack developer</h3><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Cesar-Brandon&show_icons=true&theme=blueberry"/>
-<img align="right" src="./assets/ghibli.gif" alt="giphy" width="250">
-
-&nbsp;
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-### Tools / Languages
-![tools](./assets/Tools.png)
-</div>
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-brandon&layout=donut-vertical&theme=blueberry#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-brandon&layout=donut-vertical&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
