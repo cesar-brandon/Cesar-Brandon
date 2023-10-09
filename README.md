@@ -1,5 +1,3 @@
-<h1 align="center">Hey! I'm Brandon 🖐</h1>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter-header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter.header.png">
