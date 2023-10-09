@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Brandon 🖐</h1>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-brandon&layout=donut-vertical&theme=prussian&bg_color=00000000#gh-dark-mode-only)](https://github.com/cesar-brandon)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter-header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter.header.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/icon-dark.png">
+</picture>
