@@ -1,4 +1,4 @@
-<a href="https://cesarbrandon.vercel.app/" targe="_blank">
+<a href="https://cesarbrandon.vercel.app/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter-header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/cesar-brandon/cesarbrandon-homepage/blob/main/public/screenshots/twitter.header.png">
